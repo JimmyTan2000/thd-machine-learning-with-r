@@ -1,0 +1,65 @@
+1. date -> Date of which of the house is sold
+2. price -> Price of the house is sold
+3. bedrooms -> Number of bedroom
+4. bathrooms -> Number of bathroom
+5. sqft_living -> Size of living room
+6. sqft_lot -> Size of the land
+7. floors -> Number of floor
+8. waterfront -> Has waterfront? No:0, Yes:1
+9. view -> An index from 0 to 4 of how good the view of the property is
+10. condition -> An index from 1 to 5 on the condition of the house
+11. sqft_above -> Size of the space that is above ground level
+12. sqft_basement -> Size of basement
+13. yr_built -> Year in which the house is built
+14. yr_renovated -> Year in which the house is renovated
+15. street -> Street name of where the house is located
+16. city -> City name of where the house is located
+17. statezip -> Zipcode of where the house is located
+18. country -> Country of where the house is located, in this dataset, USA
+
+#Encoding of the city
+1.Algona
+2.Auburn
+3.Beaux Arts Village
+4.Bellevue
+5.Black Diamond
+6.Bothell
+7.Burich
+8.Carnation
+9.Clyde Hill
+10.Covington
+11.Des Moines
+12.Duvall
+13.Enumclaw
+14.Fall City
+15.Federal Way
+16.Inglewood-Finn Hill
+17.Issaquah
+18.Kenmore
+19.Kent
+20.Kirkland
+21.Lake Forest Park
+22.Maple Valley
+23 Medina
+24.Mercer Island
+25.Milton
+26.New Castle
+27.Normandy Park
+28.North Bend
+29.Pacific
+30.Preston
+31.Ravensdale
+32.Redmond
+33.Renton
+34.Sammamish
+35.SeaTac
+36.Seattle
+37.Shoreline
+38.Skykomish
+39.Snoqualmie
+40.Snoqualmie Pass
+41.Tukwila
+42.Vashon
+43.Woodinville
+44.Yarrow Point
+
